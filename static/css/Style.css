@@ -1,0 +1,15 @@
+body {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.card {
+  width: 50%;
+  margin: 20px auto;
+}
+.card-header,
+.card-footer {
+  color: white;
+  background-color: black;
+}
